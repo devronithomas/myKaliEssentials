@@ -1,0 +1,2 @@
+John will read this file when it restarts so it  doesn't  try  to crack already done passwords. To do so remove john.pot:
+`~/.john/john.pot`
